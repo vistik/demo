@@ -11,7 +11,7 @@ gettest Basics
 #gettest AllConfigure
 #gettest AllConsole
 #gettest AllController
-#gettest AllCore
+gettest AllCore
 #gettest AllDatabase
 #gettest AllError
 #gettest AllHelpers
